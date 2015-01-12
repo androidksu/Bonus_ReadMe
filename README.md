@@ -4,7 +4,7 @@
 
 同學可以在[GitHub上發起任何討論](https://github.com/androidksu/Bonus_ReadMe/issues)
 
-1. 時間至1/12 15:00截止
+1. 時間至1/12 23:59截止 
 2. Repository簡稱Repo
 3. 參考「繳交規則」上傳至指定Git Repo
 4. 會嚴格審查加分作業之完整度
